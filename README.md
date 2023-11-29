@@ -31,7 +31,7 @@ Netflix-OSS Eureka-Zuul-Hystrix API Gateway Service is a powerful API gateway de
 
 4 Routing Rules and Filters: Allows customization of routing rules and application of filters for request processing.
 
-5 Getting Started
+## Getting Started
 
 To set up and run the Netflix-OSS Eureka-Zuul-Hystrix API Gateway Service locally, follow these steps:
 
